@@ -1,16 +1,21 @@
-# myapp
+# Calculadora Avançada em Flutter
 
-A new Flutter project.
+Uma calculadora avançada desenvolvida em Flutter com suporte para operações matemáticas básicas e funções avançadas como seno, cosseno, tangente, logaritmo, exponencial e raiz quadrada.
 
-## Getting Started
+## Recursos
 
-This project is a starting point for a Flutter application.
+- **Operações básicas**: Adição, subtração, multiplicação e divisão.
+- **Funções avançadas**:
+  - Seno (`sin`), Cosseno (`cos`), Tangente (`tan`).
+- **Suporte a parênteses**: Para definir a precedência de operações.
+- **Porcentagem**: Calcula porcentagens diretamente.
+- **Interface responsiva**: Adapta-se a diferentes tamanhos de tela.
+- **Bordas arredondadas**: Design moderno com bordas arredondadas.
 
-A few resources to get you started if this is your first Flutter project:
+## Como Usar
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Digite a expressão**: Use os botões para inserir números, operadores e funções.
+2. **Calcule o resultado**: Pressione o botão `=` para ver o resultado.
+3. **Limpar a tela**: Use o botão `C` para limpar a expressão e o resultado.
+4. **Funções avançadas**:
+   - Use `sin(`, `cos(`, `tan(` para calcular seno, cosseno e tangente.
