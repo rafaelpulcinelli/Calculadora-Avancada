@@ -1,6 +1,6 @@
 # Calculadora Avançada em Flutter
 
-Uma calculadora avançada desenvolvida em Flutter com suporte para operações matemáticas básicas e funções avançadas como seno, cosseno, tangente, logaritmo, exponencial e raiz quadrada.
+Uma calculadora avançada desenvolvida em Flutter com suporte para operações matemáticas básicas e funções avançadas como seno, cosseno, tangente, logaritmo, exponencial.
 
 ## Recursos
 
@@ -8,7 +8,6 @@ Uma calculadora avançada desenvolvida em Flutter com suporte para operações m
 - **Funções avançadas**:
   - Seno (`sin`), Cosseno (`cos`), Tangente (`tan`).
 - **Suporte a parênteses**: Para definir a precedência de operações.
-- **Porcentagem**: Calcula porcentagens diretamente.
 - **Interface responsiva**: Adapta-se a diferentes tamanhos de tela.
 - **Bordas arredondadas**: Design moderno com bordas arredondadas.
 
